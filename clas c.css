@@ -1,0 +1,22 @@
+.pag2{
+    margin-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.btn{
+    background-color: bisque;
+    margin-top: 50px;
+}
+.ozioma{
+    background-image: url(mbr.jpg);
+    background-size: cover;
+    padding-bottom: 50vh;
+}
+.page3{
+    margin-top: 30px;
+    padding-left: 150;
+    padding-right:100px;
+}
+.bte{
+    background-color: aqua;
+}
